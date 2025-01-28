@@ -1,0 +1,28 @@
+[21-Dec-2024 18:40:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\üyeler\kitaplistedeneme.php:29
+Stack trace:
+#0 C:\xampp\htdocs\üyeler\kitaplistedeneme.php(29): mysqli->query('SELECT kitap_no...')
+#1 {main}
+  thrown in C:\xampp\htdocs\üyeler\kitaplistedeneme.php on line 29
+[21-Dec-2024 18:40:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\üyeler\kitaplistedeneme.php:29
+Stack trace:
+#0 C:\xampp\htdocs\üyeler\kitaplistedeneme.php(29): mysqli->query('SELECT kitap_no...')
+#1 {main}
+  thrown in C:\xampp\htdocs\üyeler\kitaplistedeneme.php on line 29
+[21-Dec-2024 18:41:20 Europe/Berlin] PHP Warning:  Undefined variable $result in C:\xampp\htdocs\üyeler\kitaplistedeneme.php on line 59
+[21-Dec-2024 18:41:20 Europe/Berlin] PHP Warning:  Attempt to read property "num_rows" on null in C:\xampp\htdocs\üyeler\kitaplistedeneme.php on line 59
+[21-Dec-2024 18:41:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\üyeler\kitaplistedeneme.php:114
+Stack trace:
+#0 C:\xampp\htdocs\üyeler\kitaplistedeneme.php(114): mysqli->close()
+#1 {main}
+  thrown in C:\xampp\htdocs\üyeler\kitaplistedeneme.php on line 114
+[21-Dec-2024 18:42:04 Europe/Berlin] PHP Warning:  Attempt to read property "num_rows" on string in C:\xampp\htdocs\üyeler\kitaplistedeneme.php on line 59
+[21-Dec-2024 18:42:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\üyeler\kitaplistedeneme.php:114
+Stack trace:
+#0 C:\xampp\htdocs\üyeler\kitaplistedeneme.php(114): mysqli->close()
+#1 {main}
+  thrown in C:\xampp\htdocs\üyeler\kitaplistedeneme.php on line 114
+[21-Dec-2024 18:42:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\üyeler\kitaplistedeneme.php:29
+Stack trace:
+#0 C:\xampp\htdocs\üyeler\kitaplistedeneme.php(29): mysqli->query('SELECT kitap_no...')
+#1 {main}
+  thrown in C:\xampp\htdocs\üyeler\kitaplistedeneme.php on line 29
